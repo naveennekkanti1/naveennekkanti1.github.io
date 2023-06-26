@@ -1,5 +1,5 @@
 # Reservation-System-Form
 ### The Final screen:
-![image](https://github.com/naveennekkanti1/Reservation-System-Form/assets/111896305/0da9462f-7493-482f-834b-a1a0b149b3de)
+![Screenshot (162)](https://github.com/naveennekkanti1/Reservation-System-Form/assets/111896305/9395b1dd-1c74-462b-af57-78fa30143420)
 ### After Filling the form:
-![image](https://github.com/naveennekkanti1/Reservation-System-Form/assets/111896305/9172c776-e79f-41fa-94a0-df5d8f1cf031)
+![Screenshot (161)](https://github.com/naveennekkanti1/Reservation-System-Form/assets/111896305/f4284a09-22c3-4330-ace5-a18f27bda995)
