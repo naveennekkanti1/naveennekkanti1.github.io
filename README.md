@@ -43,7 +43,7 @@
     </table>
 
     <div id="receiptForm" style="display: none;">
-      <h2>Booking Receipt</h2>
+      <h2>Booking Form</h2>
       <p><strong>Name:</strong> <span id="receiptName"></span></p>
       <p><strong>Email:</strong> <span id="receiptEmail"></span></p>
       <p><strong>Phone:</strong> <span id="receiptPhone"></span></p>
